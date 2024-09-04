@@ -1,0 +1,1850 @@
+﻿  main.cpp
+F:\jgphm\final\cylinder.h(187,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\jgphm\final\cylinder.h(191,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\jgphm\final\cylinder.h(215,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\jgphm\final\cylinder.h(217,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\jgphm\final\cylinder.h(185,28): warning C4101: 'xz': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+F:\jgphm\final\curve.h(85,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+F:\jgphm\final\curve.h(88,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+F:\jgphm\final\curve.h(98,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\jgphm\final\curve.h(104,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\jgphm\final\curve.h(105,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\jgphm\final\main.cpp(119,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(119,2): warning C4305:         with
+F:\jgphm\final\main.cpp(119,2): warning C4305:         [
+F:\jgphm\final\main.cpp(119,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(119,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(119,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(119,10): warning C4305:         with
+F:\jgphm\final\main.cpp(119,10): warning C4305:         [
+F:\jgphm\final\main.cpp(119,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(119,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(119,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(119,18): warning C4305:         with
+F:\jgphm\final\main.cpp(119,18): warning C4305:         [
+F:\jgphm\final\main.cpp(119,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(119,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(120,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(120,2): warning C4305:         with
+F:\jgphm\final\main.cpp(120,2): warning C4305:         [
+F:\jgphm\final\main.cpp(120,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(120,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(120,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(120,10): warning C4305:         with
+F:\jgphm\final\main.cpp(120,10): warning C4305:         [
+F:\jgphm\final\main.cpp(120,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(120,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(120,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(120,18): warning C4305:         with
+F:\jgphm\final\main.cpp(120,18): warning C4305:         [
+F:\jgphm\final\main.cpp(120,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(120,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(121,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(121,2): warning C4305:         with
+F:\jgphm\final\main.cpp(121,2): warning C4305:         [
+F:\jgphm\final\main.cpp(121,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(121,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(121,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(121,10): warning C4305:         with
+F:\jgphm\final\main.cpp(121,10): warning C4305:         [
+F:\jgphm\final\main.cpp(121,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(121,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(121,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(121,18): warning C4305:         with
+F:\jgphm\final\main.cpp(121,18): warning C4305:         [
+F:\jgphm\final\main.cpp(121,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(121,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(122,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(122,2): warning C4305:         with
+F:\jgphm\final\main.cpp(122,2): warning C4305:         [
+F:\jgphm\final\main.cpp(122,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(122,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(122,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(122,10): warning C4305:         with
+F:\jgphm\final\main.cpp(122,10): warning C4305:         [
+F:\jgphm\final\main.cpp(122,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(122,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(122,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(122,18): warning C4305:         with
+F:\jgphm\final\main.cpp(122,18): warning C4305:         [
+F:\jgphm\final\main.cpp(122,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(122,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(123,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(123,2): warning C4305:         with
+F:\jgphm\final\main.cpp(123,2): warning C4305:         [
+F:\jgphm\final\main.cpp(123,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(123,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(123,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(123,10): warning C4305:         with
+F:\jgphm\final\main.cpp(123,10): warning C4305:         [
+F:\jgphm\final\main.cpp(123,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(123,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(123,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(123,18): warning C4305:         with
+F:\jgphm\final\main.cpp(123,18): warning C4305:         [
+F:\jgphm\final\main.cpp(123,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(123,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(124,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(124,2): warning C4305:         with
+F:\jgphm\final\main.cpp(124,2): warning C4305:         [
+F:\jgphm\final\main.cpp(124,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(124,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(124,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(124,10): warning C4305:         with
+F:\jgphm\final\main.cpp(124,10): warning C4305:         [
+F:\jgphm\final\main.cpp(124,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(124,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(124,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(124,18): warning C4305:         with
+F:\jgphm\final\main.cpp(124,18): warning C4305:         [
+F:\jgphm\final\main.cpp(124,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(124,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(125,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(125,2): warning C4305:         with
+F:\jgphm\final\main.cpp(125,2): warning C4305:         [
+F:\jgphm\final\main.cpp(125,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(125,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(125,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(125,10): warning C4305:         with
+F:\jgphm\final\main.cpp(125,10): warning C4305:         [
+F:\jgphm\final\main.cpp(125,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(125,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(125,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(125,18): warning C4305:         with
+F:\jgphm\final\main.cpp(125,18): warning C4305:         [
+F:\jgphm\final\main.cpp(125,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(125,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(126,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(126,2): warning C4305:         with
+F:\jgphm\final\main.cpp(126,2): warning C4305:         [
+F:\jgphm\final\main.cpp(126,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(126,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(126,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(126,10): warning C4305:         with
+F:\jgphm\final\main.cpp(126,10): warning C4305:         [
+F:\jgphm\final\main.cpp(126,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(126,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(126,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(126,18): warning C4305:         with
+F:\jgphm\final\main.cpp(126,18): warning C4305:         [
+F:\jgphm\final\main.cpp(126,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(126,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(127,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(127,2): warning C4305:         with
+F:\jgphm\final\main.cpp(127,2): warning C4305:         [
+F:\jgphm\final\main.cpp(127,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(127,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(127,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(127,10): warning C4305:         with
+F:\jgphm\final\main.cpp(127,10): warning C4305:         [
+F:\jgphm\final\main.cpp(127,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(127,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(127,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(127,18): warning C4305:         with
+F:\jgphm\final\main.cpp(127,18): warning C4305:         [
+F:\jgphm\final\main.cpp(127,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(127,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(128,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(128,2): warning C4305:         with
+F:\jgphm\final\main.cpp(128,2): warning C4305:         [
+F:\jgphm\final\main.cpp(128,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(128,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(128,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(128,10): warning C4305:         with
+F:\jgphm\final\main.cpp(128,10): warning C4305:         [
+F:\jgphm\final\main.cpp(128,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(128,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(128,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(128,18): warning C4305:         with
+F:\jgphm\final\main.cpp(128,18): warning C4305:         [
+F:\jgphm\final\main.cpp(128,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(128,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(129,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(129,2): warning C4305:         with
+F:\jgphm\final\main.cpp(129,2): warning C4305:         [
+F:\jgphm\final\main.cpp(129,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(129,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(129,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(129,10): warning C4305:         with
+F:\jgphm\final\main.cpp(129,10): warning C4305:         [
+F:\jgphm\final\main.cpp(129,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(129,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(129,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(129,18): warning C4305:         with
+F:\jgphm\final\main.cpp(129,18): warning C4305:         [
+F:\jgphm\final\main.cpp(129,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(129,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(130,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(130,2): warning C4305:         with
+F:\jgphm\final\main.cpp(130,2): warning C4305:         [
+F:\jgphm\final\main.cpp(130,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(130,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(130,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(130,10): warning C4305:         with
+F:\jgphm\final\main.cpp(130,10): warning C4305:         [
+F:\jgphm\final\main.cpp(130,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(130,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(130,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(130,18): warning C4305:         with
+F:\jgphm\final\main.cpp(130,18): warning C4305:         [
+F:\jgphm\final\main.cpp(130,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(130,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(131,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(131,2): warning C4305:         with
+F:\jgphm\final\main.cpp(131,2): warning C4305:         [
+F:\jgphm\final\main.cpp(131,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(131,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(131,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(131,10): warning C4305:         with
+F:\jgphm\final\main.cpp(131,10): warning C4305:         [
+F:\jgphm\final\main.cpp(131,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(131,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(131,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(131,18): warning C4305:         with
+F:\jgphm\final\main.cpp(131,18): warning C4305:         [
+F:\jgphm\final\main.cpp(131,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(131,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(132,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(132,1): warning C4305:         with
+F:\jgphm\final\main.cpp(132,1): warning C4305:         [
+F:\jgphm\final\main.cpp(132,1): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(132,1): warning C4305:         ]
+F:\jgphm\final\main.cpp(132,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(132,9): warning C4305:         with
+F:\jgphm\final\main.cpp(132,9): warning C4305:         [
+F:\jgphm\final\main.cpp(132,9): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(132,9): warning C4305:         ]
+F:\jgphm\final\main.cpp(132,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(132,17): warning C4305:         with
+F:\jgphm\final\main.cpp(132,17): warning C4305:         [
+F:\jgphm\final\main.cpp(132,17): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(132,17): warning C4305:         ]
+F:\jgphm\final\main.cpp(133,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(133,1): warning C4305:         with
+F:\jgphm\final\main.cpp(133,1): warning C4305:         [
+F:\jgphm\final\main.cpp(133,1): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(133,1): warning C4305:         ]
+F:\jgphm\final\main.cpp(133,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(133,9): warning C4305:         with
+F:\jgphm\final\main.cpp(133,9): warning C4305:         [
+F:\jgphm\final\main.cpp(133,9): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(133,9): warning C4305:         ]
+F:\jgphm\final\main.cpp(133,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(133,17): warning C4305:         with
+F:\jgphm\final\main.cpp(133,17): warning C4305:         [
+F:\jgphm\final\main.cpp(133,17): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(133,17): warning C4305:         ]
+F:\jgphm\final\main.cpp(134,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(134,1): warning C4305:         with
+F:\jgphm\final\main.cpp(134,1): warning C4305:         [
+F:\jgphm\final\main.cpp(134,1): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(134,1): warning C4305:         ]
+F:\jgphm\final\main.cpp(134,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(134,9): warning C4305:         with
+F:\jgphm\final\main.cpp(134,9): warning C4305:         [
+F:\jgphm\final\main.cpp(134,9): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(134,9): warning C4305:         ]
+F:\jgphm\final\main.cpp(134,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(134,17): warning C4305:         with
+F:\jgphm\final\main.cpp(134,17): warning C4305:         [
+F:\jgphm\final\main.cpp(134,17): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(134,17): warning C4305:         ]
+F:\jgphm\final\main.cpp(135,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(135,2): warning C4305:         with
+F:\jgphm\final\main.cpp(135,2): warning C4305:         [
+F:\jgphm\final\main.cpp(135,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(135,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(135,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(135,10): warning C4305:         with
+F:\jgphm\final\main.cpp(135,10): warning C4305:         [
+F:\jgphm\final\main.cpp(135,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(135,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(135,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(135,18): warning C4305:         with
+F:\jgphm\final\main.cpp(135,18): warning C4305:         [
+F:\jgphm\final\main.cpp(135,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(135,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(136,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(136,2): warning C4305:         with
+F:\jgphm\final\main.cpp(136,2): warning C4305:         [
+F:\jgphm\final\main.cpp(136,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(136,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(136,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(136,18): warning C4305:         with
+F:\jgphm\final\main.cpp(136,18): warning C4305:         [
+F:\jgphm\final\main.cpp(136,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(136,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(137,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(137,2): warning C4305:         with
+F:\jgphm\final\main.cpp(137,2): warning C4305:         [
+F:\jgphm\final\main.cpp(137,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(137,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(137,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(137,10): warning C4305:         with
+F:\jgphm\final\main.cpp(137,10): warning C4305:         [
+F:\jgphm\final\main.cpp(137,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(137,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(137,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(137,18): warning C4305:         with
+F:\jgphm\final\main.cpp(137,18): warning C4305:         [
+F:\jgphm\final\main.cpp(137,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(137,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(138,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(138,2): warning C4305:         with
+F:\jgphm\final\main.cpp(138,2): warning C4305:         [
+F:\jgphm\final\main.cpp(138,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(138,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(138,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(138,10): warning C4305:         with
+F:\jgphm\final\main.cpp(138,10): warning C4305:         [
+F:\jgphm\final\main.cpp(138,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(138,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(138,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(138,18): warning C4305:         with
+F:\jgphm\final\main.cpp(138,18): warning C4305:         [
+F:\jgphm\final\main.cpp(138,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(138,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(139,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(139,2): warning C4305:         with
+F:\jgphm\final\main.cpp(139,2): warning C4305:         [
+F:\jgphm\final\main.cpp(139,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(139,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(139,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(139,10): warning C4305:         with
+F:\jgphm\final\main.cpp(139,10): warning C4305:         [
+F:\jgphm\final\main.cpp(139,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(139,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(139,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(139,18): warning C4305:         with
+F:\jgphm\final\main.cpp(139,18): warning C4305:         [
+F:\jgphm\final\main.cpp(139,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(139,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(140,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(140,2): warning C4305:         with
+F:\jgphm\final\main.cpp(140,2): warning C4305:         [
+F:\jgphm\final\main.cpp(140,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(140,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(140,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(140,10): warning C4305:         with
+F:\jgphm\final\main.cpp(140,10): warning C4305:         [
+F:\jgphm\final\main.cpp(140,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(140,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(140,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(140,18): warning C4305:         with
+F:\jgphm\final\main.cpp(140,18): warning C4305:         [
+F:\jgphm\final\main.cpp(140,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(140,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(141,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(141,2): warning C4305:         with
+F:\jgphm\final\main.cpp(141,2): warning C4305:         [
+F:\jgphm\final\main.cpp(141,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(141,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(141,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(141,10): warning C4305:         with
+F:\jgphm\final\main.cpp(141,10): warning C4305:         [
+F:\jgphm\final\main.cpp(141,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(141,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(141,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(141,18): warning C4305:         with
+F:\jgphm\final\main.cpp(141,18): warning C4305:         [
+F:\jgphm\final\main.cpp(141,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(141,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(142,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(142,2): warning C4305:         with
+F:\jgphm\final\main.cpp(142,2): warning C4305:         [
+F:\jgphm\final\main.cpp(142,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(142,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(142,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(142,10): warning C4305:         with
+F:\jgphm\final\main.cpp(142,10): warning C4305:         [
+F:\jgphm\final\main.cpp(142,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(142,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(142,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(142,18): warning C4305:         with
+F:\jgphm\final\main.cpp(142,18): warning C4305:         [
+F:\jgphm\final\main.cpp(142,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(142,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(143,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(143,2): warning C4305:         with
+F:\jgphm\final\main.cpp(143,2): warning C4305:         [
+F:\jgphm\final\main.cpp(143,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(143,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(143,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(143,10): warning C4305:         with
+F:\jgphm\final\main.cpp(143,10): warning C4305:         [
+F:\jgphm\final\main.cpp(143,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(143,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(143,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(143,18): warning C4305:         with
+F:\jgphm\final\main.cpp(143,18): warning C4305:         [
+F:\jgphm\final\main.cpp(143,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(143,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(144,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(144,2): warning C4305:         with
+F:\jgphm\final\main.cpp(144,2): warning C4305:         [
+F:\jgphm\final\main.cpp(144,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(144,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(144,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(144,10): warning C4305:         with
+F:\jgphm\final\main.cpp(144,10): warning C4305:         [
+F:\jgphm\final\main.cpp(144,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(144,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(144,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(144,18): warning C4305:         with
+F:\jgphm\final\main.cpp(144,18): warning C4305:         [
+F:\jgphm\final\main.cpp(144,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(144,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(145,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(145,2): warning C4305:         with
+F:\jgphm\final\main.cpp(145,2): warning C4305:         [
+F:\jgphm\final\main.cpp(145,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(145,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(145,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(145,10): warning C4305:         with
+F:\jgphm\final\main.cpp(145,10): warning C4305:         [
+F:\jgphm\final\main.cpp(145,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(145,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(145,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(145,18): warning C4305:         with
+F:\jgphm\final\main.cpp(145,18): warning C4305:         [
+F:\jgphm\final\main.cpp(145,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(145,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(146,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(146,2): warning C4305:         with
+F:\jgphm\final\main.cpp(146,2): warning C4305:         [
+F:\jgphm\final\main.cpp(146,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(146,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(146,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(146,10): warning C4305:         with
+F:\jgphm\final\main.cpp(146,10): warning C4305:         [
+F:\jgphm\final\main.cpp(146,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(146,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(146,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(146,18): warning C4305:         with
+F:\jgphm\final\main.cpp(146,18): warning C4305:         [
+F:\jgphm\final\main.cpp(146,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(146,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(147,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(147,2): warning C4305:         with
+F:\jgphm\final\main.cpp(147,2): warning C4305:         [
+F:\jgphm\final\main.cpp(147,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(147,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(147,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(147,10): warning C4305:         with
+F:\jgphm\final\main.cpp(147,10): warning C4305:         [
+F:\jgphm\final\main.cpp(147,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(147,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(147,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(147,18): warning C4305:         with
+F:\jgphm\final\main.cpp(147,18): warning C4305:         [
+F:\jgphm\final\main.cpp(147,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(147,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(148,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(148,2): warning C4305:         with
+F:\jgphm\final\main.cpp(148,2): warning C4305:         [
+F:\jgphm\final\main.cpp(148,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(148,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(148,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(148,10): warning C4305:         with
+F:\jgphm\final\main.cpp(148,10): warning C4305:         [
+F:\jgphm\final\main.cpp(148,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(148,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(148,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(148,18): warning C4305:         with
+F:\jgphm\final\main.cpp(148,18): warning C4305:         [
+F:\jgphm\final\main.cpp(148,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(148,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(149,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(149,2): warning C4305:         with
+F:\jgphm\final\main.cpp(149,2): warning C4305:         [
+F:\jgphm\final\main.cpp(149,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(149,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(149,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(149,10): warning C4305:         with
+F:\jgphm\final\main.cpp(149,10): warning C4305:         [
+F:\jgphm\final\main.cpp(149,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(149,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(149,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(149,18): warning C4305:         with
+F:\jgphm\final\main.cpp(149,18): warning C4305:         [
+F:\jgphm\final\main.cpp(149,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(149,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(150,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(150,2): warning C4305:         with
+F:\jgphm\final\main.cpp(150,2): warning C4305:         [
+F:\jgphm\final\main.cpp(150,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(150,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(150,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(150,10): warning C4305:         with
+F:\jgphm\final\main.cpp(150,10): warning C4305:         [
+F:\jgphm\final\main.cpp(150,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(150,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(150,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(150,18): warning C4305:         with
+F:\jgphm\final\main.cpp(150,18): warning C4305:         [
+F:\jgphm\final\main.cpp(150,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(150,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(151,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(151,2): warning C4305:         with
+F:\jgphm\final\main.cpp(151,2): warning C4305:         [
+F:\jgphm\final\main.cpp(151,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(151,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(151,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(151,10): warning C4305:         with
+F:\jgphm\final\main.cpp(151,10): warning C4305:         [
+F:\jgphm\final\main.cpp(151,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(151,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(151,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(151,18): warning C4305:         with
+F:\jgphm\final\main.cpp(151,18): warning C4305:         [
+F:\jgphm\final\main.cpp(151,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(151,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(152,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(152,2): warning C4305:         with
+F:\jgphm\final\main.cpp(152,2): warning C4305:         [
+F:\jgphm\final\main.cpp(152,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(152,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(152,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(152,10): warning C4305:         with
+F:\jgphm\final\main.cpp(152,10): warning C4305:         [
+F:\jgphm\final\main.cpp(152,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(152,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(152,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(152,18): warning C4305:         with
+F:\jgphm\final\main.cpp(152,18): warning C4305:         [
+F:\jgphm\final\main.cpp(152,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(152,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(153,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(153,2): warning C4305:         with
+F:\jgphm\final\main.cpp(153,2): warning C4305:         [
+F:\jgphm\final\main.cpp(153,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(153,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(153,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(153,10): warning C4305:         with
+F:\jgphm\final\main.cpp(153,10): warning C4305:         [
+F:\jgphm\final\main.cpp(153,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(153,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(153,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(153,18): warning C4305:         with
+F:\jgphm\final\main.cpp(153,18): warning C4305:         [
+F:\jgphm\final\main.cpp(153,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(153,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(154,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(154,2): warning C4305:         with
+F:\jgphm\final\main.cpp(154,2): warning C4305:         [
+F:\jgphm\final\main.cpp(154,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(154,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(154,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(154,10): warning C4305:         with
+F:\jgphm\final\main.cpp(154,10): warning C4305:         [
+F:\jgphm\final\main.cpp(154,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(154,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(154,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(154,18): warning C4305:         with
+F:\jgphm\final\main.cpp(154,18): warning C4305:         [
+F:\jgphm\final\main.cpp(154,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(154,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(155,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(155,1): warning C4305:         with
+F:\jgphm\final\main.cpp(155,1): warning C4305:         [
+F:\jgphm\final\main.cpp(155,1): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(155,1): warning C4305:         ]
+F:\jgphm\final\main.cpp(155,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(155,9): warning C4305:         with
+F:\jgphm\final\main.cpp(155,9): warning C4305:         [
+F:\jgphm\final\main.cpp(155,9): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(155,9): warning C4305:         ]
+F:\jgphm\final\main.cpp(155,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(155,17): warning C4305:         with
+F:\jgphm\final\main.cpp(155,17): warning C4305:         [
+F:\jgphm\final\main.cpp(155,17): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(155,17): warning C4305:         ]
+F:\jgphm\final\main.cpp(156,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(156,1): warning C4305:         with
+F:\jgphm\final\main.cpp(156,1): warning C4305:         [
+F:\jgphm\final\main.cpp(156,1): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(156,1): warning C4305:         ]
+F:\jgphm\final\main.cpp(156,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(156,9): warning C4305:         with
+F:\jgphm\final\main.cpp(156,9): warning C4305:         [
+F:\jgphm\final\main.cpp(156,9): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(156,9): warning C4305:         ]
+F:\jgphm\final\main.cpp(156,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(156,17): warning C4305:         with
+F:\jgphm\final\main.cpp(156,17): warning C4305:         [
+F:\jgphm\final\main.cpp(156,17): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(156,17): warning C4305:         ]
+F:\jgphm\final\main.cpp(157,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(157,1): warning C4305:         with
+F:\jgphm\final\main.cpp(157,1): warning C4305:         [
+F:\jgphm\final\main.cpp(157,1): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(157,1): warning C4305:         ]
+F:\jgphm\final\main.cpp(157,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(157,9): warning C4305:         with
+F:\jgphm\final\main.cpp(157,9): warning C4305:         [
+F:\jgphm\final\main.cpp(157,9): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(157,9): warning C4305:         ]
+F:\jgphm\final\main.cpp(157,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(157,17): warning C4305:         with
+F:\jgphm\final\main.cpp(157,17): warning C4305:         [
+F:\jgphm\final\main.cpp(157,17): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(157,17): warning C4305:         ]
+F:\jgphm\final\main.cpp(158,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(158,1): warning C4305:         with
+F:\jgphm\final\main.cpp(158,1): warning C4305:         [
+F:\jgphm\final\main.cpp(158,1): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(158,1): warning C4305:         ]
+F:\jgphm\final\main.cpp(158,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(158,9): warning C4305:         with
+F:\jgphm\final\main.cpp(158,9): warning C4305:         [
+F:\jgphm\final\main.cpp(158,9): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(158,9): warning C4305:         ]
+F:\jgphm\final\main.cpp(158,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(158,17): warning C4305:         with
+F:\jgphm\final\main.cpp(158,17): warning C4305:         [
+F:\jgphm\final\main.cpp(158,17): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(158,17): warning C4305:         ]
+F:\jgphm\final\main.cpp(164,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(164,2): warning C4305:         with
+F:\jgphm\final\main.cpp(164,2): warning C4305:         [
+F:\jgphm\final\main.cpp(164,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(164,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(164,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(164,10): warning C4305:         with
+F:\jgphm\final\main.cpp(164,10): warning C4305:         [
+F:\jgphm\final\main.cpp(164,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(164,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(164,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(164,18): warning C4305:         with
+F:\jgphm\final\main.cpp(164,18): warning C4305:         [
+F:\jgphm\final\main.cpp(164,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(164,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(165,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(165,2): warning C4305:         with
+F:\jgphm\final\main.cpp(165,2): warning C4305:         [
+F:\jgphm\final\main.cpp(165,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(165,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(165,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(165,10): warning C4305:         with
+F:\jgphm\final\main.cpp(165,10): warning C4305:         [
+F:\jgphm\final\main.cpp(165,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(165,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(165,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(165,18): warning C4305:         with
+F:\jgphm\final\main.cpp(165,18): warning C4305:         [
+F:\jgphm\final\main.cpp(165,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(165,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(166,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(166,2): warning C4305:         with
+F:\jgphm\final\main.cpp(166,2): warning C4305:         [
+F:\jgphm\final\main.cpp(166,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(166,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(166,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(166,10): warning C4305:         with
+F:\jgphm\final\main.cpp(166,10): warning C4305:         [
+F:\jgphm\final\main.cpp(166,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(166,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(166,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(166,18): warning C4305:         with
+F:\jgphm\final\main.cpp(166,18): warning C4305:         [
+F:\jgphm\final\main.cpp(166,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(166,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(167,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(167,2): warning C4305:         with
+F:\jgphm\final\main.cpp(167,2): warning C4305:         [
+F:\jgphm\final\main.cpp(167,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(167,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(167,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(167,10): warning C4305:         with
+F:\jgphm\final\main.cpp(167,10): warning C4305:         [
+F:\jgphm\final\main.cpp(167,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(167,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(167,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(167,18): warning C4305:         with
+F:\jgphm\final\main.cpp(167,18): warning C4305:         [
+F:\jgphm\final\main.cpp(167,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(167,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(168,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(168,2): warning C4305:         with
+F:\jgphm\final\main.cpp(168,2): warning C4305:         [
+F:\jgphm\final\main.cpp(168,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(168,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(168,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(168,10): warning C4305:         with
+F:\jgphm\final\main.cpp(168,10): warning C4305:         [
+F:\jgphm\final\main.cpp(168,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(168,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(168,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(168,18): warning C4305:         with
+F:\jgphm\final\main.cpp(168,18): warning C4305:         [
+F:\jgphm\final\main.cpp(168,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(168,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(169,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(169,2): warning C4305:         with
+F:\jgphm\final\main.cpp(169,2): warning C4305:         [
+F:\jgphm\final\main.cpp(169,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(169,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(169,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(169,10): warning C4305:         with
+F:\jgphm\final\main.cpp(169,10): warning C4305:         [
+F:\jgphm\final\main.cpp(169,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(169,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(169,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(169,18): warning C4305:         with
+F:\jgphm\final\main.cpp(169,18): warning C4305:         [
+F:\jgphm\final\main.cpp(169,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(169,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(170,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(170,2): warning C4305:         with
+F:\jgphm\final\main.cpp(170,2): warning C4305:         [
+F:\jgphm\final\main.cpp(170,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(170,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(170,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(170,10): warning C4305:         with
+F:\jgphm\final\main.cpp(170,10): warning C4305:         [
+F:\jgphm\final\main.cpp(170,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(170,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(170,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(170,18): warning C4305:         with
+F:\jgphm\final\main.cpp(170,18): warning C4305:         [
+F:\jgphm\final\main.cpp(170,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(170,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(171,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(171,2): warning C4305:         with
+F:\jgphm\final\main.cpp(171,2): warning C4305:         [
+F:\jgphm\final\main.cpp(171,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(171,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(171,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(171,10): warning C4305:         with
+F:\jgphm\final\main.cpp(171,10): warning C4305:         [
+F:\jgphm\final\main.cpp(171,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(171,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(171,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(171,18): warning C4305:         with
+F:\jgphm\final\main.cpp(171,18): warning C4305:         [
+F:\jgphm\final\main.cpp(171,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(171,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(172,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(172,2): warning C4305:         with
+F:\jgphm\final\main.cpp(172,2): warning C4305:         [
+F:\jgphm\final\main.cpp(172,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(172,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(172,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(172,10): warning C4305:         with
+F:\jgphm\final\main.cpp(172,10): warning C4305:         [
+F:\jgphm\final\main.cpp(172,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(172,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(172,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(172,18): warning C4305:         with
+F:\jgphm\final\main.cpp(172,18): warning C4305:         [
+F:\jgphm\final\main.cpp(172,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(172,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(173,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(173,2): warning C4305:         with
+F:\jgphm\final\main.cpp(173,2): warning C4305:         [
+F:\jgphm\final\main.cpp(173,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(173,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(173,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(173,10): warning C4305:         with
+F:\jgphm\final\main.cpp(173,10): warning C4305:         [
+F:\jgphm\final\main.cpp(173,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(173,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(173,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(173,18): warning C4305:         with
+F:\jgphm\final\main.cpp(173,18): warning C4305:         [
+F:\jgphm\final\main.cpp(173,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(173,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(174,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(174,2): warning C4305:         with
+F:\jgphm\final\main.cpp(174,2): warning C4305:         [
+F:\jgphm\final\main.cpp(174,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(174,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(174,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(174,10): warning C4305:         with
+F:\jgphm\final\main.cpp(174,10): warning C4305:         [
+F:\jgphm\final\main.cpp(174,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(174,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(174,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(174,18): warning C4305:         with
+F:\jgphm\final\main.cpp(174,18): warning C4305:         [
+F:\jgphm\final\main.cpp(174,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(174,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(175,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(175,2): warning C4305:         with
+F:\jgphm\final\main.cpp(175,2): warning C4305:         [
+F:\jgphm\final\main.cpp(175,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(175,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(175,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(175,10): warning C4305:         with
+F:\jgphm\final\main.cpp(175,10): warning C4305:         [
+F:\jgphm\final\main.cpp(175,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(175,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(175,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(175,18): warning C4305:         with
+F:\jgphm\final\main.cpp(175,18): warning C4305:         [
+F:\jgphm\final\main.cpp(175,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(175,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(176,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(176,2): warning C4305:         with
+F:\jgphm\final\main.cpp(176,2): warning C4305:         [
+F:\jgphm\final\main.cpp(176,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(176,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(176,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(176,10): warning C4305:         with
+F:\jgphm\final\main.cpp(176,10): warning C4305:         [
+F:\jgphm\final\main.cpp(176,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(176,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(176,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(176,18): warning C4305:         with
+F:\jgphm\final\main.cpp(176,18): warning C4305:         [
+F:\jgphm\final\main.cpp(176,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(176,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(177,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(177,2): warning C4305:         with
+F:\jgphm\final\main.cpp(177,2): warning C4305:         [
+F:\jgphm\final\main.cpp(177,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(177,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(177,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(177,10): warning C4305:         with
+F:\jgphm\final\main.cpp(177,10): warning C4305:         [
+F:\jgphm\final\main.cpp(177,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(177,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(177,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(177,18): warning C4305:         with
+F:\jgphm\final\main.cpp(177,18): warning C4305:         [
+F:\jgphm\final\main.cpp(177,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(177,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(178,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(178,2): warning C4305:         with
+F:\jgphm\final\main.cpp(178,2): warning C4305:         [
+F:\jgphm\final\main.cpp(178,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(178,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(178,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(178,10): warning C4305:         with
+F:\jgphm\final\main.cpp(178,10): warning C4305:         [
+F:\jgphm\final\main.cpp(178,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(178,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(178,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(178,18): warning C4305:         with
+F:\jgphm\final\main.cpp(178,18): warning C4305:         [
+F:\jgphm\final\main.cpp(178,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(178,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(179,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(179,2): warning C4305:         with
+F:\jgphm\final\main.cpp(179,2): warning C4305:         [
+F:\jgphm\final\main.cpp(179,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(179,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(179,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(179,10): warning C4305:         with
+F:\jgphm\final\main.cpp(179,10): warning C4305:         [
+F:\jgphm\final\main.cpp(179,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(179,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(179,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(179,18): warning C4305:         with
+F:\jgphm\final\main.cpp(179,18): warning C4305:         [
+F:\jgphm\final\main.cpp(179,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(179,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(180,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(180,2): warning C4305:         with
+F:\jgphm\final\main.cpp(180,2): warning C4305:         [
+F:\jgphm\final\main.cpp(180,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(180,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(180,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(180,10): warning C4305:         with
+F:\jgphm\final\main.cpp(180,10): warning C4305:         [
+F:\jgphm\final\main.cpp(180,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(180,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(180,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(180,18): warning C4305:         with
+F:\jgphm\final\main.cpp(180,18): warning C4305:         [
+F:\jgphm\final\main.cpp(180,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(180,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(181,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(181,2): warning C4305:         with
+F:\jgphm\final\main.cpp(181,2): warning C4305:         [
+F:\jgphm\final\main.cpp(181,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(181,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(181,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(181,10): warning C4305:         with
+F:\jgphm\final\main.cpp(181,10): warning C4305:         [
+F:\jgphm\final\main.cpp(181,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(181,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(181,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(181,18): warning C4305:         with
+F:\jgphm\final\main.cpp(181,18): warning C4305:         [
+F:\jgphm\final\main.cpp(181,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(181,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(182,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(182,2): warning C4305:         with
+F:\jgphm\final\main.cpp(182,2): warning C4305:         [
+F:\jgphm\final\main.cpp(182,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(182,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(182,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(182,10): warning C4305:         with
+F:\jgphm\final\main.cpp(182,10): warning C4305:         [
+F:\jgphm\final\main.cpp(182,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(182,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(182,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(182,18): warning C4305:         with
+F:\jgphm\final\main.cpp(182,18): warning C4305:         [
+F:\jgphm\final\main.cpp(182,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(182,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(183,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(183,2): warning C4305:         with
+F:\jgphm\final\main.cpp(183,2): warning C4305:         [
+F:\jgphm\final\main.cpp(183,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(183,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(183,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(183,10): warning C4305:         with
+F:\jgphm\final\main.cpp(183,10): warning C4305:         [
+F:\jgphm\final\main.cpp(183,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(183,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(183,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(183,18): warning C4305:         with
+F:\jgphm\final\main.cpp(183,18): warning C4305:         [
+F:\jgphm\final\main.cpp(183,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(183,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(184,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(184,2): warning C4305:         with
+F:\jgphm\final\main.cpp(184,2): warning C4305:         [
+F:\jgphm\final\main.cpp(184,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(184,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(184,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(184,10): warning C4305:         with
+F:\jgphm\final\main.cpp(184,10): warning C4305:         [
+F:\jgphm\final\main.cpp(184,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(184,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(184,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(184,18): warning C4305:         with
+F:\jgphm\final\main.cpp(184,18): warning C4305:         [
+F:\jgphm\final\main.cpp(184,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(184,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(185,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(185,2): warning C4305:         with
+F:\jgphm\final\main.cpp(185,2): warning C4305:         [
+F:\jgphm\final\main.cpp(185,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(185,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(185,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(185,10): warning C4305:         with
+F:\jgphm\final\main.cpp(185,10): warning C4305:         [
+F:\jgphm\final\main.cpp(185,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(185,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(185,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(185,18): warning C4305:         with
+F:\jgphm\final\main.cpp(185,18): warning C4305:         [
+F:\jgphm\final\main.cpp(185,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(185,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(186,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(186,2): warning C4305:         with
+F:\jgphm\final\main.cpp(186,2): warning C4305:         [
+F:\jgphm\final\main.cpp(186,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(186,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(186,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(186,10): warning C4305:         with
+F:\jgphm\final\main.cpp(186,10): warning C4305:         [
+F:\jgphm\final\main.cpp(186,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(186,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(186,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(186,18): warning C4305:         with
+F:\jgphm\final\main.cpp(186,18): warning C4305:         [
+F:\jgphm\final\main.cpp(186,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(186,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(187,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(187,2): warning C4305:         with
+F:\jgphm\final\main.cpp(187,2): warning C4305:         [
+F:\jgphm\final\main.cpp(187,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(187,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(187,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(187,10): warning C4305:         with
+F:\jgphm\final\main.cpp(187,10): warning C4305:         [
+F:\jgphm\final\main.cpp(187,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(187,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(187,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(187,18): warning C4305:         with
+F:\jgphm\final\main.cpp(187,18): warning C4305:         [
+F:\jgphm\final\main.cpp(187,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(187,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(188,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(188,2): warning C4305:         with
+F:\jgphm\final\main.cpp(188,2): warning C4305:         [
+F:\jgphm\final\main.cpp(188,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(188,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(188,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(188,10): warning C4305:         with
+F:\jgphm\final\main.cpp(188,10): warning C4305:         [
+F:\jgphm\final\main.cpp(188,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(188,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(188,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(188,18): warning C4305:         with
+F:\jgphm\final\main.cpp(188,18): warning C4305:         [
+F:\jgphm\final\main.cpp(188,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(188,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(189,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(189,1): warning C4305:         with
+F:\jgphm\final\main.cpp(189,1): warning C4305:         [
+F:\jgphm\final\main.cpp(189,1): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(189,1): warning C4305:         ]
+F:\jgphm\final\main.cpp(189,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(189,9): warning C4305:         with
+F:\jgphm\final\main.cpp(189,9): warning C4305:         [
+F:\jgphm\final\main.cpp(189,9): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(189,9): warning C4305:         ]
+F:\jgphm\final\main.cpp(189,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(189,17): warning C4305:         with
+F:\jgphm\final\main.cpp(189,17): warning C4305:         [
+F:\jgphm\final\main.cpp(189,17): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(189,17): warning C4305:         ]
+F:\jgphm\final\main.cpp(195,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(195,2): warning C4305:         with
+F:\jgphm\final\main.cpp(195,2): warning C4305:         [
+F:\jgphm\final\main.cpp(195,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(195,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(195,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(195,10): warning C4305:         with
+F:\jgphm\final\main.cpp(195,10): warning C4305:         [
+F:\jgphm\final\main.cpp(195,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(195,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(195,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(195,18): warning C4305:         with
+F:\jgphm\final\main.cpp(195,18): warning C4305:         [
+F:\jgphm\final\main.cpp(195,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(195,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(196,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(196,2): warning C4305:         with
+F:\jgphm\final\main.cpp(196,2): warning C4305:         [
+F:\jgphm\final\main.cpp(196,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(196,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(196,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(196,10): warning C4305:         with
+F:\jgphm\final\main.cpp(196,10): warning C4305:         [
+F:\jgphm\final\main.cpp(196,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(196,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(196,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(196,18): warning C4305:         with
+F:\jgphm\final\main.cpp(196,18): warning C4305:         [
+F:\jgphm\final\main.cpp(196,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(196,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(197,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(197,2): warning C4305:         with
+F:\jgphm\final\main.cpp(197,2): warning C4305:         [
+F:\jgphm\final\main.cpp(197,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(197,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(197,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(197,10): warning C4305:         with
+F:\jgphm\final\main.cpp(197,10): warning C4305:         [
+F:\jgphm\final\main.cpp(197,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(197,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(197,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(197,18): warning C4305:         with
+F:\jgphm\final\main.cpp(197,18): warning C4305:         [
+F:\jgphm\final\main.cpp(197,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(197,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(198,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(198,2): warning C4305:         with
+F:\jgphm\final\main.cpp(198,2): warning C4305:         [
+F:\jgphm\final\main.cpp(198,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(198,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(198,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(198,10): warning C4305:         with
+F:\jgphm\final\main.cpp(198,10): warning C4305:         [
+F:\jgphm\final\main.cpp(198,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(198,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(198,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(198,18): warning C4305:         with
+F:\jgphm\final\main.cpp(198,18): warning C4305:         [
+F:\jgphm\final\main.cpp(198,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(198,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(199,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(199,2): warning C4305:         with
+F:\jgphm\final\main.cpp(199,2): warning C4305:         [
+F:\jgphm\final\main.cpp(199,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(199,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(199,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(199,10): warning C4305:         with
+F:\jgphm\final\main.cpp(199,10): warning C4305:         [
+F:\jgphm\final\main.cpp(199,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(199,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(199,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(199,18): warning C4305:         with
+F:\jgphm\final\main.cpp(199,18): warning C4305:         [
+F:\jgphm\final\main.cpp(199,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(199,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(200,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(200,2): warning C4305:         with
+F:\jgphm\final\main.cpp(200,2): warning C4305:         [
+F:\jgphm\final\main.cpp(200,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(200,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(200,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(200,10): warning C4305:         with
+F:\jgphm\final\main.cpp(200,10): warning C4305:         [
+F:\jgphm\final\main.cpp(200,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(200,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(200,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(200,18): warning C4305:         with
+F:\jgphm\final\main.cpp(200,18): warning C4305:         [
+F:\jgphm\final\main.cpp(200,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(200,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(201,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(201,2): warning C4305:         with
+F:\jgphm\final\main.cpp(201,2): warning C4305:         [
+F:\jgphm\final\main.cpp(201,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(201,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(201,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(201,10): warning C4305:         with
+F:\jgphm\final\main.cpp(201,10): warning C4305:         [
+F:\jgphm\final\main.cpp(201,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(201,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(201,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(201,18): warning C4305:         with
+F:\jgphm\final\main.cpp(201,18): warning C4305:         [
+F:\jgphm\final\main.cpp(201,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(201,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(202,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(202,2): warning C4305:         with
+F:\jgphm\final\main.cpp(202,2): warning C4305:         [
+F:\jgphm\final\main.cpp(202,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(202,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(202,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(202,10): warning C4305:         with
+F:\jgphm\final\main.cpp(202,10): warning C4305:         [
+F:\jgphm\final\main.cpp(202,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(202,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(202,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(202,18): warning C4305:         with
+F:\jgphm\final\main.cpp(202,18): warning C4305:         [
+F:\jgphm\final\main.cpp(202,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(202,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(203,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(203,2): warning C4305:         with
+F:\jgphm\final\main.cpp(203,2): warning C4305:         [
+F:\jgphm\final\main.cpp(203,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(203,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(203,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(203,10): warning C4305:         with
+F:\jgphm\final\main.cpp(203,10): warning C4305:         [
+F:\jgphm\final\main.cpp(203,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(203,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(203,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(203,18): warning C4305:         with
+F:\jgphm\final\main.cpp(203,18): warning C4305:         [
+F:\jgphm\final\main.cpp(203,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(203,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(204,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(204,2): warning C4305:         with
+F:\jgphm\final\main.cpp(204,2): warning C4305:         [
+F:\jgphm\final\main.cpp(204,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(204,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(204,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(204,10): warning C4305:         with
+F:\jgphm\final\main.cpp(204,10): warning C4305:         [
+F:\jgphm\final\main.cpp(204,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(204,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(204,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(204,18): warning C4305:         with
+F:\jgphm\final\main.cpp(204,18): warning C4305:         [
+F:\jgphm\final\main.cpp(204,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(204,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(205,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(205,2): warning C4305:         with
+F:\jgphm\final\main.cpp(205,2): warning C4305:         [
+F:\jgphm\final\main.cpp(205,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(205,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(205,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(205,10): warning C4305:         with
+F:\jgphm\final\main.cpp(205,10): warning C4305:         [
+F:\jgphm\final\main.cpp(205,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(205,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(205,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(205,18): warning C4305:         with
+F:\jgphm\final\main.cpp(205,18): warning C4305:         [
+F:\jgphm\final\main.cpp(205,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(205,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(206,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(206,2): warning C4305:         with
+F:\jgphm\final\main.cpp(206,2): warning C4305:         [
+F:\jgphm\final\main.cpp(206,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(206,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(206,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(206,10): warning C4305:         with
+F:\jgphm\final\main.cpp(206,10): warning C4305:         [
+F:\jgphm\final\main.cpp(206,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(206,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(206,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(206,18): warning C4305:         with
+F:\jgphm\final\main.cpp(206,18): warning C4305:         [
+F:\jgphm\final\main.cpp(206,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(206,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(207,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(207,2): warning C4305:         with
+F:\jgphm\final\main.cpp(207,2): warning C4305:         [
+F:\jgphm\final\main.cpp(207,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(207,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(207,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(207,10): warning C4305:         with
+F:\jgphm\final\main.cpp(207,10): warning C4305:         [
+F:\jgphm\final\main.cpp(207,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(207,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(207,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(207,18): warning C4305:         with
+F:\jgphm\final\main.cpp(207,18): warning C4305:         [
+F:\jgphm\final\main.cpp(207,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(207,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(208,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(208,2): warning C4305:         with
+F:\jgphm\final\main.cpp(208,2): warning C4305:         [
+F:\jgphm\final\main.cpp(208,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(208,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(208,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(208,10): warning C4305:         with
+F:\jgphm\final\main.cpp(208,10): warning C4305:         [
+F:\jgphm\final\main.cpp(208,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(208,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(208,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(208,18): warning C4305:         with
+F:\jgphm\final\main.cpp(208,18): warning C4305:         [
+F:\jgphm\final\main.cpp(208,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(208,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(209,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(209,9): warning C4305:         with
+F:\jgphm\final\main.cpp(209,9): warning C4305:         [
+F:\jgphm\final\main.cpp(209,9): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(209,9): warning C4305:         ]
+F:\jgphm\final\main.cpp(209,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(209,17): warning C4305:         with
+F:\jgphm\final\main.cpp(209,17): warning C4305:         [
+F:\jgphm\final\main.cpp(209,17): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(209,17): warning C4305:         ]
+F:\jgphm\final\main.cpp(210,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(210,1): warning C4305:         with
+F:\jgphm\final\main.cpp(210,1): warning C4305:         [
+F:\jgphm\final\main.cpp(210,1): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(210,1): warning C4305:         ]
+F:\jgphm\final\main.cpp(210,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(210,9): warning C4305:         with
+F:\jgphm\final\main.cpp(210,9): warning C4305:         [
+F:\jgphm\final\main.cpp(210,9): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(210,9): warning C4305:         ]
+F:\jgphm\final\main.cpp(210,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(210,17): warning C4305:         with
+F:\jgphm\final\main.cpp(210,17): warning C4305:         [
+F:\jgphm\final\main.cpp(210,17): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(210,17): warning C4305:         ]
+F:\jgphm\final\main.cpp(215,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(215,2): warning C4305:         with
+F:\jgphm\final\main.cpp(215,2): warning C4305:         [
+F:\jgphm\final\main.cpp(215,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(215,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(215,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(215,10): warning C4305:         with
+F:\jgphm\final\main.cpp(215,10): warning C4305:         [
+F:\jgphm\final\main.cpp(215,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(215,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(215,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(215,18): warning C4305:         with
+F:\jgphm\final\main.cpp(215,18): warning C4305:         [
+F:\jgphm\final\main.cpp(215,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(215,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(216,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(216,2): warning C4305:         with
+F:\jgphm\final\main.cpp(216,2): warning C4305:         [
+F:\jgphm\final\main.cpp(216,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(216,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(216,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(216,10): warning C4305:         with
+F:\jgphm\final\main.cpp(216,10): warning C4305:         [
+F:\jgphm\final\main.cpp(216,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(216,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(216,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(216,18): warning C4305:         with
+F:\jgphm\final\main.cpp(216,18): warning C4305:         [
+F:\jgphm\final\main.cpp(216,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(216,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(217,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(217,2): warning C4305:         with
+F:\jgphm\final\main.cpp(217,2): warning C4305:         [
+F:\jgphm\final\main.cpp(217,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(217,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(217,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(217,10): warning C4305:         with
+F:\jgphm\final\main.cpp(217,10): warning C4305:         [
+F:\jgphm\final\main.cpp(217,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(217,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(217,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(217,18): warning C4305:         with
+F:\jgphm\final\main.cpp(217,18): warning C4305:         [
+F:\jgphm\final\main.cpp(217,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(217,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(218,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(218,2): warning C4305:         with
+F:\jgphm\final\main.cpp(218,2): warning C4305:         [
+F:\jgphm\final\main.cpp(218,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(218,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(218,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(218,10): warning C4305:         with
+F:\jgphm\final\main.cpp(218,10): warning C4305:         [
+F:\jgphm\final\main.cpp(218,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(218,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(218,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(218,18): warning C4305:         with
+F:\jgphm\final\main.cpp(218,18): warning C4305:         [
+F:\jgphm\final\main.cpp(218,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(218,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(219,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(219,2): warning C4305:         with
+F:\jgphm\final\main.cpp(219,2): warning C4305:         [
+F:\jgphm\final\main.cpp(219,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(219,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(219,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(219,10): warning C4305:         with
+F:\jgphm\final\main.cpp(219,10): warning C4305:         [
+F:\jgphm\final\main.cpp(219,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(219,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(219,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(219,18): warning C4305:         with
+F:\jgphm\final\main.cpp(219,18): warning C4305:         [
+F:\jgphm\final\main.cpp(219,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(219,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(220,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(220,2): warning C4305:         with
+F:\jgphm\final\main.cpp(220,2): warning C4305:         [
+F:\jgphm\final\main.cpp(220,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(220,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(220,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(220,10): warning C4305:         with
+F:\jgphm\final\main.cpp(220,10): warning C4305:         [
+F:\jgphm\final\main.cpp(220,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(220,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(220,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(220,18): warning C4305:         with
+F:\jgphm\final\main.cpp(220,18): warning C4305:         [
+F:\jgphm\final\main.cpp(220,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(220,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(221,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(221,2): warning C4305:         with
+F:\jgphm\final\main.cpp(221,2): warning C4305:         [
+F:\jgphm\final\main.cpp(221,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(221,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(221,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(221,10): warning C4305:         with
+F:\jgphm\final\main.cpp(221,10): warning C4305:         [
+F:\jgphm\final\main.cpp(221,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(221,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(221,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(221,18): warning C4305:         with
+F:\jgphm\final\main.cpp(221,18): warning C4305:         [
+F:\jgphm\final\main.cpp(221,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(221,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(222,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(222,2): warning C4305:         with
+F:\jgphm\final\main.cpp(222,2): warning C4305:         [
+F:\jgphm\final\main.cpp(222,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(222,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(222,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(222,10): warning C4305:         with
+F:\jgphm\final\main.cpp(222,10): warning C4305:         [
+F:\jgphm\final\main.cpp(222,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(222,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(222,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(222,18): warning C4305:         with
+F:\jgphm\final\main.cpp(222,18): warning C4305:         [
+F:\jgphm\final\main.cpp(222,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(222,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(223,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(223,2): warning C4305:         with
+F:\jgphm\final\main.cpp(223,2): warning C4305:         [
+F:\jgphm\final\main.cpp(223,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(223,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(223,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(223,10): warning C4305:         with
+F:\jgphm\final\main.cpp(223,10): warning C4305:         [
+F:\jgphm\final\main.cpp(223,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(223,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(223,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(223,18): warning C4305:         with
+F:\jgphm\final\main.cpp(223,18): warning C4305:         [
+F:\jgphm\final\main.cpp(223,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(223,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(224,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(224,2): warning C4305:         with
+F:\jgphm\final\main.cpp(224,2): warning C4305:         [
+F:\jgphm\final\main.cpp(224,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(224,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(224,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(224,10): warning C4305:         with
+F:\jgphm\final\main.cpp(224,10): warning C4305:         [
+F:\jgphm\final\main.cpp(224,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(224,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(224,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(224,18): warning C4305:         with
+F:\jgphm\final\main.cpp(224,18): warning C4305:         [
+F:\jgphm\final\main.cpp(224,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(224,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(225,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(225,2): warning C4305:         with
+F:\jgphm\final\main.cpp(225,2): warning C4305:         [
+F:\jgphm\final\main.cpp(225,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(225,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(225,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(225,10): warning C4305:         with
+F:\jgphm\final\main.cpp(225,10): warning C4305:         [
+F:\jgphm\final\main.cpp(225,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(225,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(225,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(225,18): warning C4305:         with
+F:\jgphm\final\main.cpp(225,18): warning C4305:         [
+F:\jgphm\final\main.cpp(225,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(225,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(226,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(226,2): warning C4305:         with
+F:\jgphm\final\main.cpp(226,2): warning C4305:         [
+F:\jgphm\final\main.cpp(226,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(226,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(226,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(226,10): warning C4305:         with
+F:\jgphm\final\main.cpp(226,10): warning C4305:         [
+F:\jgphm\final\main.cpp(226,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(226,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(226,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(226,18): warning C4305:         with
+F:\jgphm\final\main.cpp(226,18): warning C4305:         [
+F:\jgphm\final\main.cpp(226,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(226,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(227,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(227,2): warning C4305:         with
+F:\jgphm\final\main.cpp(227,2): warning C4305:         [
+F:\jgphm\final\main.cpp(227,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(227,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(227,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(227,10): warning C4305:         with
+F:\jgphm\final\main.cpp(227,10): warning C4305:         [
+F:\jgphm\final\main.cpp(227,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(227,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(227,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(227,18): warning C4305:         with
+F:\jgphm\final\main.cpp(227,18): warning C4305:         [
+F:\jgphm\final\main.cpp(227,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(227,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(228,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(228,2): warning C4305:         with
+F:\jgphm\final\main.cpp(228,2): warning C4305:         [
+F:\jgphm\final\main.cpp(228,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(228,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(228,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(228,10): warning C4305:         with
+F:\jgphm\final\main.cpp(228,10): warning C4305:         [
+F:\jgphm\final\main.cpp(228,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(228,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(228,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(228,18): warning C4305:         with
+F:\jgphm\final\main.cpp(228,18): warning C4305:         [
+F:\jgphm\final\main.cpp(228,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(228,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(229,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(229,9): warning C4305:         with
+F:\jgphm\final\main.cpp(229,9): warning C4305:         [
+F:\jgphm\final\main.cpp(229,9): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(229,9): warning C4305:         ]
+F:\jgphm\final\main.cpp(229,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(229,17): warning C4305:         with
+F:\jgphm\final\main.cpp(229,17): warning C4305:         [
+F:\jgphm\final\main.cpp(229,17): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(229,17): warning C4305:         ]
+F:\jgphm\final\main.cpp(230,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(230,1): warning C4305:         with
+F:\jgphm\final\main.cpp(230,1): warning C4305:         [
+F:\jgphm\final\main.cpp(230,1): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(230,1): warning C4305:         ]
+F:\jgphm\final\main.cpp(230,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(230,9): warning C4305:         with
+F:\jgphm\final\main.cpp(230,9): warning C4305:         [
+F:\jgphm\final\main.cpp(230,9): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(230,9): warning C4305:         ]
+F:\jgphm\final\main.cpp(230,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(230,17): warning C4305:         with
+F:\jgphm\final\main.cpp(230,17): warning C4305:         [
+F:\jgphm\final\main.cpp(230,17): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(230,17): warning C4305:         ]
+F:\jgphm\final\main.cpp(235,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(235,2): warning C4305:         with
+F:\jgphm\final\main.cpp(235,2): warning C4305:         [
+F:\jgphm\final\main.cpp(235,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(235,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(235,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(235,10): warning C4305:         with
+F:\jgphm\final\main.cpp(235,10): warning C4305:         [
+F:\jgphm\final\main.cpp(235,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(235,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(235,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(235,18): warning C4305:         with
+F:\jgphm\final\main.cpp(235,18): warning C4305:         [
+F:\jgphm\final\main.cpp(235,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(235,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(236,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(236,2): warning C4305:         with
+F:\jgphm\final\main.cpp(236,2): warning C4305:         [
+F:\jgphm\final\main.cpp(236,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(236,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(236,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(236,10): warning C4305:         with
+F:\jgphm\final\main.cpp(236,10): warning C4305:         [
+F:\jgphm\final\main.cpp(236,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(236,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(236,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(236,18): warning C4305:         with
+F:\jgphm\final\main.cpp(236,18): warning C4305:         [
+F:\jgphm\final\main.cpp(236,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(236,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(237,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(237,2): warning C4305:         with
+F:\jgphm\final\main.cpp(237,2): warning C4305:         [
+F:\jgphm\final\main.cpp(237,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(237,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(237,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(237,10): warning C4305:         with
+F:\jgphm\final\main.cpp(237,10): warning C4305:         [
+F:\jgphm\final\main.cpp(237,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(237,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(237,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(237,18): warning C4305:         with
+F:\jgphm\final\main.cpp(237,18): warning C4305:         [
+F:\jgphm\final\main.cpp(237,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(237,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(238,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(238,2): warning C4305:         with
+F:\jgphm\final\main.cpp(238,2): warning C4305:         [
+F:\jgphm\final\main.cpp(238,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(238,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(238,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(238,10): warning C4305:         with
+F:\jgphm\final\main.cpp(238,10): warning C4305:         [
+F:\jgphm\final\main.cpp(238,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(238,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(238,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(238,18): warning C4305:         with
+F:\jgphm\final\main.cpp(238,18): warning C4305:         [
+F:\jgphm\final\main.cpp(238,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(238,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(239,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(239,2): warning C4305:         with
+F:\jgphm\final\main.cpp(239,2): warning C4305:         [
+F:\jgphm\final\main.cpp(239,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(239,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(239,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(239,10): warning C4305:         with
+F:\jgphm\final\main.cpp(239,10): warning C4305:         [
+F:\jgphm\final\main.cpp(239,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(239,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(239,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(239,18): warning C4305:         with
+F:\jgphm\final\main.cpp(239,18): warning C4305:         [
+F:\jgphm\final\main.cpp(239,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(239,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(240,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(240,2): warning C4305:         with
+F:\jgphm\final\main.cpp(240,2): warning C4305:         [
+F:\jgphm\final\main.cpp(240,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(240,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(240,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(240,10): warning C4305:         with
+F:\jgphm\final\main.cpp(240,10): warning C4305:         [
+F:\jgphm\final\main.cpp(240,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(240,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(240,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(240,18): warning C4305:         with
+F:\jgphm\final\main.cpp(240,18): warning C4305:         [
+F:\jgphm\final\main.cpp(240,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(240,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(241,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(241,2): warning C4305:         with
+F:\jgphm\final\main.cpp(241,2): warning C4305:         [
+F:\jgphm\final\main.cpp(241,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(241,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(241,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(241,10): warning C4305:         with
+F:\jgphm\final\main.cpp(241,10): warning C4305:         [
+F:\jgphm\final\main.cpp(241,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(241,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(241,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(241,18): warning C4305:         with
+F:\jgphm\final\main.cpp(241,18): warning C4305:         [
+F:\jgphm\final\main.cpp(241,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(241,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(242,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(242,2): warning C4305:         with
+F:\jgphm\final\main.cpp(242,2): warning C4305:         [
+F:\jgphm\final\main.cpp(242,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(242,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(242,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(242,10): warning C4305:         with
+F:\jgphm\final\main.cpp(242,10): warning C4305:         [
+F:\jgphm\final\main.cpp(242,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(242,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(242,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(242,18): warning C4305:         with
+F:\jgphm\final\main.cpp(242,18): warning C4305:         [
+F:\jgphm\final\main.cpp(242,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(242,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(243,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(243,2): warning C4305:         with
+F:\jgphm\final\main.cpp(243,2): warning C4305:         [
+F:\jgphm\final\main.cpp(243,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(243,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(243,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(243,10): warning C4305:         with
+F:\jgphm\final\main.cpp(243,10): warning C4305:         [
+F:\jgphm\final\main.cpp(243,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(243,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(243,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(243,18): warning C4305:         with
+F:\jgphm\final\main.cpp(243,18): warning C4305:         [
+F:\jgphm\final\main.cpp(243,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(243,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(244,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(244,2): warning C4305:         with
+F:\jgphm\final\main.cpp(244,2): warning C4305:         [
+F:\jgphm\final\main.cpp(244,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(244,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(244,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(244,10): warning C4305:         with
+F:\jgphm\final\main.cpp(244,10): warning C4305:         [
+F:\jgphm\final\main.cpp(244,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(244,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(244,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(244,18): warning C4305:         with
+F:\jgphm\final\main.cpp(244,18): warning C4305:         [
+F:\jgphm\final\main.cpp(244,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(244,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(245,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(245,2): warning C4305:         with
+F:\jgphm\final\main.cpp(245,2): warning C4305:         [
+F:\jgphm\final\main.cpp(245,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(245,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(245,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(245,10): warning C4305:         with
+F:\jgphm\final\main.cpp(245,10): warning C4305:         [
+F:\jgphm\final\main.cpp(245,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(245,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(245,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(245,18): warning C4305:         with
+F:\jgphm\final\main.cpp(245,18): warning C4305:         [
+F:\jgphm\final\main.cpp(245,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(245,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(246,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(246,2): warning C4305:         with
+F:\jgphm\final\main.cpp(246,2): warning C4305:         [
+F:\jgphm\final\main.cpp(246,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(246,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(246,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(246,10): warning C4305:         with
+F:\jgphm\final\main.cpp(246,10): warning C4305:         [
+F:\jgphm\final\main.cpp(246,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(246,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(246,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(246,18): warning C4305:         with
+F:\jgphm\final\main.cpp(246,18): warning C4305:         [
+F:\jgphm\final\main.cpp(246,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(246,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(247,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(247,2): warning C4305:         with
+F:\jgphm\final\main.cpp(247,2): warning C4305:         [
+F:\jgphm\final\main.cpp(247,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(247,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(247,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(247,10): warning C4305:         with
+F:\jgphm\final\main.cpp(247,10): warning C4305:         [
+F:\jgphm\final\main.cpp(247,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(247,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(247,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(247,18): warning C4305:         with
+F:\jgphm\final\main.cpp(247,18): warning C4305:         [
+F:\jgphm\final\main.cpp(247,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(247,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(248,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(248,2): warning C4305:         with
+F:\jgphm\final\main.cpp(248,2): warning C4305:         [
+F:\jgphm\final\main.cpp(248,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(248,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(248,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(248,10): warning C4305:         with
+F:\jgphm\final\main.cpp(248,10): warning C4305:         [
+F:\jgphm\final\main.cpp(248,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(248,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(248,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(248,18): warning C4305:         with
+F:\jgphm\final\main.cpp(248,18): warning C4305:         [
+F:\jgphm\final\main.cpp(248,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(248,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(256,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(256,2): warning C4305:         with
+F:\jgphm\final\main.cpp(256,2): warning C4305:         [
+F:\jgphm\final\main.cpp(256,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(256,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(256,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(256,10): warning C4305:         with
+F:\jgphm\final\main.cpp(256,10): warning C4305:         [
+F:\jgphm\final\main.cpp(256,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(256,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(256,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(256,18): warning C4305:         with
+F:\jgphm\final\main.cpp(256,18): warning C4305:         [
+F:\jgphm\final\main.cpp(256,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(256,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(257,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(257,2): warning C4305:         with
+F:\jgphm\final\main.cpp(257,2): warning C4305:         [
+F:\jgphm\final\main.cpp(257,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(257,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(257,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(257,10): warning C4305:         with
+F:\jgphm\final\main.cpp(257,10): warning C4305:         [
+F:\jgphm\final\main.cpp(257,10): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(257,10): warning C4305:         ]
+F:\jgphm\final\main.cpp(257,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(257,18): warning C4305:         with
+F:\jgphm\final\main.cpp(257,18): warning C4305:         [
+F:\jgphm\final\main.cpp(257,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(257,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(258,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(258,2): warning C4305:         with
+F:\jgphm\final\main.cpp(258,2): warning C4305:         [
+F:\jgphm\final\main.cpp(258,2): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(258,2): warning C4305:         ]
+F:\jgphm\final\main.cpp(258,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+F:\jgphm\final\main.cpp(258,18): warning C4305:         with
+F:\jgphm\final\main.cpp(258,18): warning C4305:         [
+F:\jgphm\final\main.cpp(258,18): warning C4305:             _Ty=float
+F:\jgphm\final\main.cpp(258,18): warning C4305:         ]
+F:\jgphm\final\main.cpp(773,80): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(777,80): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(777,31): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(785,90): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(789,91): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(789,31): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(1247,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(1247,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1268,44): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(1268,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1286,44): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(1286,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1299,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1299,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(1299,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1302,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1302,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(1302,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1316,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1316,44): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(1316,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1325,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1325,37): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(1325,31): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(1328,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1328,37): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(1472,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1472,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1476,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1476,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1480,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1480,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1484,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1484,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1484,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1488,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1488,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1488,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(1992,13): warning C4804: '+=': unsafe use of type 'bool' in operation
+F:\jgphm\final\main.cpp(1993,20): warning C4804: '%': unsafe use of type 'bool' in operation
+F:\jgphm\final\main.cpp(2076,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(2076,55): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(2076,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(2076,37): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(2076,32): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(2076,27): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(2081,90): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(2081,85): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(2081,79): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(2081,33): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(2085,90): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(2085,85): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(2085,79): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(2085,33): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(2090,90): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(2090,85): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(2090,79): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(2090,33): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(752,100): warning C4101: 'translate2': unreferenced local variable
+F:\jgphm\final\main.cpp(3149,86): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3153,82): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3157,83): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3161,83): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3165,86): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3165,29): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3169,90): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3169,84): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3174,85): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3174,77): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3178,93): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3178,85): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3178,35): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3178,29): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3178,23): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3144,32): warning C4101: 'scaleMatrix': unreferenced local variable
+F:\jgphm\final\main.cpp(3144,15): warning C4101: 'translateMatrix': unreferenced local variable
+F:\jgphm\final\main.cpp(3189,86): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3193,91): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3197,92): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3201,82): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3206,83): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3211,93): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3215,28): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3218,28): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3221,26): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3184,32): warning C4101: 'scaleMatrix': unreferenced local variable
+F:\jgphm\final\main.cpp(3184,15): warning C4101: 'translateMatrix': unreferenced local variable
+F:\jgphm\final\main.cpp(3236,32): warning C4101: 'scaleMatrix': unreferenced local variable
+F:\jgphm\final\main.cpp(3236,15): warning C4101: 'translateMatrix': unreferenced local variable
+F:\jgphm\final\main.cpp(3243,32): warning C4101: 'scaleMatrix': unreferenced local variable
+F:\jgphm\final\main.cpp(3243,15): warning C4101: 'translateMatrix': unreferenced local variable
+F:\jgphm\final\main.cpp(3288,85): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3288,77): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3308,87): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3308,82): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3308,77): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3312,89): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3312,77): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3316,92): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3316,80): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3316,23): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3320,91): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3320,79): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3325,94): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3325,82): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3325,23): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3287,32): warning C4101: 'scaleMatrix': unreferenced local variable
+F:\jgphm\final\main.cpp(3287,15): warning C4101: 'translateMatrix': unreferenced local variable
+F:\jgphm\final\main.cpp(3374,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3377,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\jgphm\final\main.cpp(3387,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(3393,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\jgphm\final\main.cpp(3394,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lighting.vcxproj -> F:\jgphm\final\x64\Debug\Lighting.exe
