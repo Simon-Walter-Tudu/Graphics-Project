@@ -1,1 +1,2 @@
 # Graphics-Project
+This project showcases expertise in computer graphics by using OpenGL to create a visually appealing 3D cafeteria simulation. It features realistic lighting, texturing, animations, and accurately modeled elements like tables, seats, and countertops. The work demonstrates creativity and technical graphics programming skills, focusing on geometric transformations, camera perspectives, and rendering pipelines.
